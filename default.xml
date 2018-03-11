@@ -27,7 +27,7 @@
   <project remote="freescale" revision="rocko" name="Documentation" path="sources/Documentation"/>
   
   <!-- WaRP7 -->
-  <project remote="warp7" revision="master" name="meta-warp7-distro" path="sources/meta-warp7-distro"/>
+  <project remote="warp7" revision="rocko" name="meta-warp7-distro" path="sources/meta-warp7-distro"/>
   <!-- Qt5 -->
   <project remote="qt5" revision="rocko" name="meta-qt5" path="sources/meta-qt5"/>
   <!-- SWUpdate -->
