@@ -8,7 +8,6 @@
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/WaRP7" name="warp7"/>
   <remote fetch="https://github.com/meta-qt5" name="qt5"/>
-  <remote fetch="https://github.com/sbabic" name="swupdate"/>
   <remote fetch="https://github.com/texierp" name="texierp"/>
   <remote fetch="https://github.com/mendersoftware" name="mender"/>
   
@@ -30,8 +29,6 @@
   <project remote="warp7" revision="master" name="meta-warp7-distro" path="sources/meta-warp7-distro"/>
   <!-- Qt5 -->
   <project remote="qt5" revision="master" name="meta-qt5" path="sources/meta-qt5"/>
-  <!-- SWUpdate -->
-  <project remote="swupdate" revision="master" name="meta-swupdate" path="sources/meta-swupdate"/>
   <!-- Mender -->
   <project remote="mender" revision="master" name="meta-mender" path="sources/meta-mender"/>
 
