@@ -10,7 +10,7 @@
   <remote fetch="https://github.com/meta-qt5" name="qt5"/>
   <remote fetch="https://github.com/texierp" name="texierp"/>
   <remote fetch="https://github.com/mendersoftware" name="mender"/>
-  <remote fetch="git@github.com:jfcamel" name="jfcamel"/>
+  <remote fetch="ssh://git@github.com/jfcamel" name="jfcamel"/>
   
   <project remote="yocto" revision="master" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="master" name="meta-freescale" path="sources/meta-freescale"/>
